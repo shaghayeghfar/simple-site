@@ -1,0 +1,69 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #f8f2eb;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#main-header {
+    background-image: url("Images/Tehran.jpg");
+    background-size:100% 100%;
+    border-radius: 20px;
+    background-image: auto;
+    height:300px;
+    border:1px solid #f8f2eb;
+    }
+#info-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:120px
+}
+
+
+h2 {
+    font-family: Quicksand,sans-serif;
+    color: lightblue;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+
+
+#VisitPlaces{
+    width:1000px;
+    justify-content: space-around;
+    margin: 0 auto;   
+    display: flex;
+    
+text-align: center;
+     padding: 20px;
+    color: #2b2839;
+     border:2px solid #f8f2eb;  
+    }
+    
+    #img{
+        height:200px;
+        border-radius: 50px;
+    }
+    #visit-img{
+    text-align: justify;
+    width:300px;
+}
+
+    
+.places{
+    color:#005a78;
+    padding-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
